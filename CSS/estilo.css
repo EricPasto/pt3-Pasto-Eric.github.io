@@ -1,29 +1,8 @@
-.delicias{
-        display: block;
-        margin: auto;
-    }
-    
-    .myDiv{
-        height:100px;
-        width: 30%;
-        display: flex;
-        margin:auto;
-        color: black
-    }
-    
-    .isagil{
-        display: inline;
-    }
-    
-    .sobre{
-        display: block;
-    }
-    
-    .sobremi{
-        display: block;
-    }
-    
-    .libro{
-        background-color: gainsboro;
-    }
-    
+
+  h1 {
+    background-color: #333; /* cambia el color de fondo */
+    color: #fff; /* cambia el color del texto */
+    padding: 20px; /* agrega un relleno para separar el contenido del borde */
+    text-align: center; /* centra el texto horizontalmente */
+  }
+  
