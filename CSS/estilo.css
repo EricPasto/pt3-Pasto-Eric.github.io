@@ -1,1 +1,29 @@
-
+.delicias{
+        display: block;
+        margin: auto;
+    }
+    
+    .myDiv{
+        height:100px;
+        width: 30%;
+        display: flex;
+        margin:auto;
+        color: black
+    }
+    
+    .isagil{
+        display: inline;
+    }
+    
+    .sobre{
+        display: block;
+    }
+    
+    .sobremi{
+        display: block;
+    }
+    
+    .libro{
+        background-color: gainsboro;
+    }
+    
