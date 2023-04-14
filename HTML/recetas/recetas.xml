@@ -1,18 +1,18 @@
 <recetas>
     <receta>
         <nom>Macarrons</nom>
-        <ingredients> x </ingredients>
+        <ingredients> Macarrons </ingredients>
         <dificultat>Facil</dificultat>
         <preparació>qweert</preparació>
     </receta>
     <receta>
         <nom>Pizza</nom>
-        <ingredients> x </ingredients>
-        <dificultat> x </dificultat>
+        <ingredients> Masa de pizza, tomaquet, formatge </ingredients>
+        <dificultat> Facil </dificultat>
         <preparació> x </preparació>
     </receta>
     <receta>
-        <nom>Pizza</nom>
+        <nom> x </nom>
         <ingredients> x </ingredients>
         <dificultat> x </dificultat>
         <preparació> x </preparació>
