@@ -244,4 +244,12 @@ body {
     max-height: 400px;
     object-fit: cover;
   }
+  .imagen {
+    width: 300px;
+    height: 200px;
+  }
+  .descripcion {
+    max-width: 600px; /* establece un ancho máximo */
+    margin-left: 20px; /* agrega un margen a la izquierda para que las descripciones no se peguen a las imágenes */
+  }
   

@@ -1,0 +1,29 @@
+<recetas>
+  <receta>
+    <titulo>Tarta de manzana</titulo>
+    <descripcion>Una deliciosa tarta de manzana con un toque de canela y una masa crujiente.</descripcion>
+    <dificultad>Fácil</dificultad>
+    <ingredientes>
+      <ingrediente>Manzanas</ingrediente>
+      <ingrediente>Harina</ingrediente>
+      <ingrediente>Azúcar</ingrediente>
+      <ingrediente>Canela</ingrediente>
+      <ingrediente>Mantequilla</ingrediente>
+    </ingredientes>
+  </receta>
+  <receta>
+    <titulo>Pizza casera</titulo>
+    <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
+    <dificultad>Medio</dificultad>
+    <ingredientes>
+      <ingrediente>Harina</ingrediente>
+      <ingrediente>Levadura</ingrediente>
+      <ingrediente>Agua</ingrediente>
+      <ingrediente>Sal</ingrediente>
+      <ingrediente>Tomate</ingrediente>
+      <ingrediente>Queso</ingrediente>
+      <ingrediente>Jamón</ingrediente>
+    </ingredientes>
+  </receta>
+  ...
+</recetas>
