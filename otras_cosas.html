@@ -1,30 +1,92 @@
-<!--
-    Eric Pastó
-    05/11/2023
-    M04 UF1 Pt3.1 HTML Maquetació
--->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="CSS/receta.css">
+  <title>Formulario</title>
+</head>
+<body>
 
 <div class="wrapper">
-    <figure>
-      <img src="imagenes/Logo-Delicias.png" class="delicias" alt="Logo-Delicias">
-      <hr>
-      <nav class="myDiv">
-        <li><a href="index.html"> INICIO </a></li>
-        <li><a href="sobre_mi.html"> SOBRE MÍ </a></li>
-        <li><a href="recetas.html"> RECETAS </a></li>
-        <li><a href="contacto.html"> CONTACTO </a></li>
-        <li><a href="otras_cosas.html"> OTRAS COSAS </a></li>
-        <link rel="stylesheet" href="CSS/estilo.css">
-      </nav>
-      <hr>
-    </div>
+  <figure>
+    <img src="imagenes/Logo-Delicias.png" class="delicias" alt="Logo-Delicias">
+    <hr>
+    <nav class="myDiv">
+      <li><a href="index.html"> INICIO </a></li>
+      <li><a href="sobre_mi.html"> SOBRE MÍ </a></li>
+      <li><a href="recetas.html"> RECETAS </a></li>
+      <li><a href="contacto.html"> CONTACTO </a></li>
+      <li><a href="otras_cosas.html"> FORMULARIOS </a></li>
+    </nav>
+    <hr>
   </figure>
-      <hr> PAGINA EN CONSTRUCCIÓ </hr>
-      <footer class="pie-de-pagina">
-        <h3>Xarxes socials</h3>
-        <div class="redes-sociales">
-          <a href="" target="_blank">Facebook</a>
-          <a href="" target="_blank">Twitter</a>
-          <a href="" target="_blank">Instagram</a>
-        </div>
-      </footer>
+
+  <div class="formulario">
+    
+    <!-- Formulario de Registro -->
+    <form action="#" method="get">
+      <h3>Darse de Alta</h3>
+      <label for="nombre_registro">Nombre:</label>
+      <input type="text" id="nombre_registro" name="nombre_registro" required>
+
+      <label for="correo_registro">Correo Electrónico:</label>
+      <input type="email" id="correo_registro" name="correo_registro" required>
+
+      <label for="contrasena_registro">Contraseña:</label>
+      <input type="password" id="contrasena_registro" name="contrasena_registro" required>
+
+      <button type="submit" name="accion" value="registro">Registrarse</button>
+    </form>
+
+    <!-- Formulario de Comentarios -->
+    <form action="#" method="get">
+      <h3>Dejar Comentario</h3>
+      <label for="nombre_comentario">Nombre:</label>
+      <input type="text" id="nombre_comentario" name="nombre_comentario" required>
+
+      <label for="comentario">Comentario:</label>
+      <textarea id="comentario" name="comentario" rows="4" required></textarea>
+
+      <button type="submit" name="accion" value="comentario">Comentar</button>
+    </form>
+
+    <!-- Formulario de Crear Receta Nueva -->
+    <form action="#" method="get">
+      <h3>Crear Receta Nueva</h3>
+      <label for="nombre_receta">Nombre de la Receta:</label>
+      <input type="text" id="nombre_receta" name="nombre_receta" required>
+
+      <label for="ingredientes">Ingredientes:</label>
+      <textarea id="ingredientes" name="ingredientes" rows="4" required></textarea>
+
+      <label for="preparacion">Preparación:</label>
+      <textarea id="preparacion" name="preparacion" rows="4" required></textarea>
+
+      <button type="submit" name="accion" value="crear_receta">Crear Receta</button>
+    </form>
+
+    <!-- Formulario de Búsqueda -->
+    <form action="#" method="get">
+      <h3>Búsqueda</h3>
+      <label for="busqueda">Buscar Recetas:</label>
+      <input type="text" id="busqueda" name="busqueda" required>
+
+      <button type="submit" name="accion" value="busqueda">Buscar</button>
+    </form>
+  </div>
+
+</div>
+
+<footer class="pie-de-pagina">
+  <h3>Xarxes socials</h3>
+  <div class="redes-sociales">
+    <a href="" target="_blank">Facebook</a>
+    <a href="" target="_blank">Twitter</a>
+    <a href="" target="_blank">Instagram</a>
+  </div>
+</footer>
+
+</body>
+</html>
+
