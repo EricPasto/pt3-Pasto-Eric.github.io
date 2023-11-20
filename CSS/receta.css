@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+}
+
+/* Estilo para la imagen del logo */
+.delicias {
+    display: block;
+    margin: auto;
+}
+
+/* Estilo para la barra de navegación */
+.myDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.myDiv li {
+    margin-right: 20px;
+}
+
+.myDiv a {
+    color: #333;
+    text-decoration: none;
+}
+
+.myDiv a:hover {
+    color: #7aba96;
+}
+
+.receta-item img {
+    max-width: 30%; /* Hacemos que el ancho máximo sea la mitad */
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+.titulo img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 10px auto; /* Centra la imagen horizontal y verticalmente */
+}
+
+.gramos {
+    background-color: #7aba96;
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.dato {
+    background-color: #7aba96;
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.pie-de-pagina {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .redes-sociales a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333; 
+  }
+  
+  .redes-sociales a:hover {
+    color: #007bff; 
+  }
+  
