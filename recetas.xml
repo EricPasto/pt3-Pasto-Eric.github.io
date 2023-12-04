@@ -1,29 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <recetas>
-  <receta>
-    <titulo>Tarta de manzana</titulo>
-    <descripcion>Una deliciosa tarta de manzana con un toque de canela y una masa crujiente.</descripcion>
-    <dificultad>Fácil</dificultad>
-    <ingredientes>
-      <ingrediente>Manzanas</ingrediente>
-      <ingrediente>Harina</ingrediente>
-      <ingrediente>Azúcar</ingrediente>
-      <ingrediente>Canela</ingrediente>
-      <ingrediente>Mantequilla</ingrediente>
-    </ingredientes>
-  </receta>
-  <receta>
-    <titulo>Pizza casera</titulo>
-    <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
-    <dificultad>Medio</dificultad>
-    <ingredientes>
-      <ingrediente>Harina</ingrediente>
-      <ingrediente>Levadura</ingrediente>
-      <ingrediente>Agua</ingrediente>
-      <ingrediente>Sal</ingrediente>
-      <ingrediente>Tomate</ingrediente>
-      <ingrediente>Queso</ingrediente>
-      <ingrediente>Jamón</ingrediente>
-    </ingredientes>
-  </receta>
-  ...
+    <receta>
+        <nombre>Tarta de manzana</nombre>
+        <descripcion>Una deliciosa tarta de manzana con un toque de canela y una masa crujiente.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Manzanas, harina, azúcar, canela, mantequilla</ingredientes>
+        <imagen>manzana.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Patatas Fritas</nombre>
+        <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
+        <dificultad>Medio</dificultad>
+        <ingredientes>Harina, levadura, agua, sal, tomate, queso, jamón</ingredientes>
+        <imagen>patatas.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Durum</nombre>
+        <descripcion>Una ensalada fresca y saludable con pollo a la plancha y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pechuga de pollo, lechuga, tomate, cebolla, pepino, aceitunas</ingredientes>
+        <imagen>durum.jpg</imagen>
+    </receta>
 </recetas>
+
