@@ -2,8 +2,8 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html lang="es">
-            <img src="imagenes/Logo-Delicias.png" class="delicias" alt="Logo-Delicias"></img>
             <head>
+                <img src="imagenes/Logo-Delicias.png" class="delicias" alt="Logo-Delicias"></img>
                 <meta charset="UTF-8"/>
                 <nav class="myDiv">
                     <li><a href="index.html"> INICIO </a></li>

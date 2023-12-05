@@ -22,4 +22,193 @@
         <ingredientes>Pechuga de pollo, lechuga, tomate, cebolla, pepino, aceitunas</ingredientes>
         <imagen>/imagenes/durum.jpg</imagen>
     </receta>
+    <receta>
+        <nombre>Lasaña</nombre>
+        <descripcion>Una lasaña con ternera a la plancha, queso y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pasta, cebolla, tomate, carne picada, Queso</ingredientes>
+        <imagen>/imagenes/lasaña.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Bizcocho</nombre>
+        <descripcion>Un bizcocho dulce de pocos ingredientes.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes> huevo, azucar, harina, agua, mantequilla</ingredientes>
+        <imagen>/imagenes/bizcocho.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Barritas de frutas</nombre>
+        <descripcion>Unas deliciosas barritas de manzana con un toque de canela y una masa crujiente.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Manzanas, harina, azúcar, canela, mantequilla</ingredientes>
+        <imagen>/imagenes/barritas.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Patatas Fritas</nombre>
+        <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
+        <dificultad>Medio</dificultad>
+        <ingredientes>Harina, levadura, agua, sal, tomate, queso, jamón</ingredientes>
+        <imagen>/imagenes/calabacines.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Durum</nombre>
+        <descripcion>Una ensalada fresca y saludable con pollo a la plancha y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pechuga de pollo, lechuga, tomate, cebolla, pepino, aceitunas</ingredientes>
+        <imagen>/imagenes/champiñones.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Lasaña</nombre>
+        <descripcion>Una lasaña con ternera a la plancha, queso y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pasta, cebolla, tomate, carne picada, Queso</ingredientes>
+        <imagen>/imagenes/galletas.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Bizcocho</nombre>
+        <descripcion>Un bizcocho dulce de pocos ingredientes.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes> huevo, azucar, harina, agua, mantequilla</ingredientes>
+        <imagen>/imagenes/mijo.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Tarta de manzana</nombre>
+        <descripcion>Una deliciosa tarta de manzana con un toque de canela y una masa crujiente.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Manzanas, harina, azúcar, canela, mantequilla</ingredientes>
+        <imagen>/imagenes/Pasta.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Patatas Fritas</nombre>
+        <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
+        <dificultad>Medio</dificultad>
+        <ingredientes>Harina, levadura, agua, sal, tomate, queso, jamón</ingredientes>
+        <imagen>/imagenes/pizza.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Durum</nombre>
+        <descripcion>Una ensalada fresca y saludable con pollo a la plancha y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pechuga de pollo, lechuga, tomate, cebolla, pepino, aceitunas</ingredientes>
+        <imagen>/imagenes/salsaqueso.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Lasaña</nombre>
+        <descripcion>Una lasaña con ternera a la plancha, queso y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pasta, cebolla, tomate, carne picada, Queso</ingredientes>
+        <imagen>/imagenes/tallarines.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Bizcocho</nombre>
+        <descripcion>Un bizcocho dulce de pocos ingredientes.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes> huevo, azucar, harina, agua, mantequilla</ingredientes>
+        <imagen>/imagenes/bizcocho.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Tarta de manzana</nombre>
+        <descripcion>Una deliciosa tarta de manzana con un toque de canela y una masa crujiente.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Manzanas, harina, azúcar, canela, mantequilla</ingredientes>
+        <imagen>/imagenes/manzana.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Patatas Fritas</nombre>
+        <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
+        <dificultad>Medio</dificultad>
+        <ingredientes>Harina, levadura, agua, sal, tomate, queso, jamón</ingredientes>
+        <imagen>/imagenes/patatas.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Durum</nombre>
+        <descripcion>Una ensalada fresca y saludable con pollo a la plancha y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pechuga de pollo, lechuga, tomate, cebolla, pepino, aceitunas</ingredientes>
+        <imagen>/imagenes/durum.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Lasaña</nombre>
+        <descripcion>Una lasaña con ternera a la plancha, queso y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pasta, cebolla, tomate, carne picada, Queso</ingredientes>
+        <imagen>/imagenes/lasaña.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Bizcocho</nombre>
+        <descripcion>Un bizcocho dulce de pocos ingredientes.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes> huevo, azucar, harina, agua, mantequilla</ingredientes>
+        <imagen>/imagenes/bizcocho.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Tarta de manzana</nombre>
+        <descripcion>Una deliciosa tarta de manzana con un toque de canela y una masa crujiente.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Manzanas, harina, azúcar, canela, mantequilla</ingredientes>
+        <imagen>/imagenes/manzana.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Patatas Fritas</nombre>
+        <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
+        <dificultad>Medio</dificultad>
+        <ingredientes>Harina, levadura, agua, sal, tomate, queso, jamón</ingredientes>
+        <imagen>/imagenes/patatas.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Durum</nombre>
+        <descripcion>Una ensalada fresca y saludable con pollo a la plancha y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pechuga de pollo, lechuga, tomate, cebolla, pepino, aceitunas</ingredientes>
+        <imagen>/imagenes/durum.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Lasaña</nombre>
+        <descripcion>Una lasaña con ternera a la plancha, queso y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pasta, cebolla, tomate, carne picada, Queso</ingredientes>
+        <imagen>/imagenes/lasaña.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Bizcocho</nombre>
+        <descripcion>Un bizcocho dulce de pocos ingredientes.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes> huevo, azucar, harina, agua, mantequilla</ingredientes>
+        <imagen>/imagenes/bizcocho.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Tarta de manzana</nombre>
+        <descripcion>Una deliciosa tarta de manzana con un toque de canela y una masa crujiente.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Manzanas, harina, azúcar, canela, mantequilla</ingredientes>
+        <imagen>/imagenes/manzana.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Patatas Fritas</nombre>
+        <descripcion>Una pizza hecha en casa con los ingredientes que más te gusten y una masa esponjosa.</descripcion>
+        <dificultad>Medio</dificultad>
+        <ingredientes>Harina, levadura, agua, sal, tomate, queso, jamón</ingredientes>
+        <imagen>/imagenes/patatas.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Durum</nombre>
+        <descripcion>Una ensalada fresca y saludable con pollo a la plancha y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pechuga de pollo, lechuga, tomate, cebolla, pepino, aceitunas</ingredientes>
+        <imagen>/imagenes/durum.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Lasaña</nombre>
+        <descripcion>Una lasaña con ternera a la plancha, queso y vegetales variados.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>Pasta, cebolla, tomate, carne picada, Queso</ingredientes>
+        <imagen>/imagenes/lasaña.jpg</imagen>
+    </receta>
+    <receta>
+        <nombre>Bizcocho</nombre>
+        <descripcion>Un bizcocho dulce de pocos ingredientes.</descripcion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes> huevo, azucar, harina, agua, mantequilla</ingredientes>
+        <imagen>/imagenes/bizcocho.jpg</imagen>
+    </receta>
 </recetas>
