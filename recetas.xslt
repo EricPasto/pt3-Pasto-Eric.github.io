@@ -2,8 +2,16 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html lang="es">
+            <img src="imagenes/Logo-Delicias.png" class="delicias" alt="Logo-Delicias"></img>
             <head>
                 <meta charset="UTF-8"/>
+                <nav class="myDiv">
+                    <li><a href="index.html"> INICIO </a></li>
+                    <li><a href="sobre_mi.html"> SOBRE MÍ </a></li>
+                    <li><a href="recetas.xml"> RECETAS </a></li>
+                    <li><a href="contacto.html"> CONTACTO </a></li>
+                    <li><a href="otras_cosas.html"> FORMULARIOS </a></li>
+                  </nav>
                 <title>Recetas</title>
                 <link rel="stylesheet" href="CSS/estilo.css"/>
             </head>
